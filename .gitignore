@@ -1,0 +1,3 @@
+#ignore csv and pkl
+*.csv
+*.pkl
