@@ -1,3 +1,8 @@
 #ignore csv and pkl
 *.csv
 *.pkl
+*.DS_Store
+*.ipynb_checkpoints
+*.jpg
+*.xlsx
+*.png
