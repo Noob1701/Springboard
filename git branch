@@ -1,0 +1,282 @@
+[33mcommit 082a1db59b5df5a5203c9ab2e77a1c887657f71b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sat Apr 29 21:22:54 2023 -0400
+
+    Start FN readability assessment
+
+[33mcommit b24192de0ee4815503e22b8c15b2af78aa357cd7[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sat Apr 29 08:46:23 2023 -0400
+
+    Clustering for submission
+
+[33mcommit c15902d5fd774c89a190a2e4adc14ef73073fa49[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Wed Apr 26 18:59:42 2023 -0400
+
+    initializing clustering notebook
+
+[33mcommit f9a2788e8768e6bfabc35b3e21bd258c814a1a3f[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Tue Apr 25 21:43:18 2023 -0400
+
+    Cosine notebook for submission
+
+[33mcommit b6819fc4057662448fa0766c923ddb5b0f25d094[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Tue Apr 25 20:21:42 2023 -0400
+
+    initializing Cosine notebook
+
+[33mcommit c8646e061cabab7f428f10075ef85ffe26a0e70b[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Mon Apr 24 20:12:43 2023 -0400
+
+    Submission for E and M distances
+
+[33mcommit 066ca5efe4261bafd19bee1c60c8be1cf5e936db[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Mon Apr 24 19:59:39 2023 -0400
+
+    initializing E and M distances
+
+[33mcommit 420594a0cad52f13b22658e768c6c63c47b2329d[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sun Apr 23 19:59:55 2023 -0400
+
+    GB to submit
+
+[33mcommit b59e6a320eabb398c451707fd0a8fe76da7076d0[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sun Apr 23 09:39:03 2023 -0400
+
+    Initializing Gradient Boosting notebook
+
+[33mcommit 8da810aef555201d4d2f8341b58f923fb2958c32[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sun Apr 23 07:39:20 2023 -0400
+
+    final Decision Tree assignment
+
+[33mcommit 1d928cabf644848c6fc7f3bad6d72e87bdc3038b[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sat Apr 22 08:47:36 2023 -0400
+
+    partially completed Decision Tree excersize
+
+[33mcommit 7db4532282b89dba258c3b4fcb08781627bba39f[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Fri Apr 21 16:28:04 2023 -0400
+
+    initializing Decision Tree notebook
+
+[33mcommit a388d9b7426b21686a3a1cc80ae74c8b7231170d[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Fri Apr 21 15:40:17 2023 -0400
+
+    RF version to be submitted
+
+[33mcommit 745961ea9f0dff38178de32399858585f7cf9fc3[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Fri Apr 21 15:39:39 2023 -0400
+
+    RF version to be submitted
+
+[33mcommit 3cde4a8156728a355f9d0ff48fbbc1f0d474d1f3[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Wed Apr 19 19:45:57 2023 -0400
+
+    draft updated Random Forrest
+
+[33mcommit 212aa0733ea1f2f839e091848dd5abc80dd36ebe[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Tue Apr 18 16:47:39 2023 -0400
+
+    initializing RF case study
+
+[33mcommit 7b7602502ce3cb41cfddff7592a81f417c91fa4c[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Mon Apr 17 19:05:18 2023 -0400
+
+    'Logistic Regression draft completed'
+
+[33mcommit db7394096ca627adc3164d7347314310d9245d20[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Mon Apr 17 09:36:21 2023 -0400
+
+    Adding EDA and Logistic Regression notebooks
+
+[33mcommit b03fb0dc10bb9e3ba0f80ab062981134372b5e7d[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Mon Apr 17 08:14:08 2023 -0400
+
+    cleaned /n from Wrangle. Updated gitignore
+
+[33mcommit 17f9593f6f0ea3aa720f201a61b7df74778bb20d[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 825e9e4 851d97d
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sun Apr 16 14:19:49 2023 -0400
+
+    Merge https://github.com/Noob1701/Springboard
+
+[33mcommit 851d97d6dab6149826f99bc459b9f4bfc8c46658[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sun Apr 16 14:18:19 2023 -0400
+
+    Delete Fake News Capstone.ipynb
+
+[33mcommit 825e9e422cd52724d31e7ee79b0b92b9b309678c[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sun Apr 16 13:50:10 2023 -0400
+
+    test
+
+[33mcommit b2b4cece5adae04cf2740d4c8620ebf97a86cb4d[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sun Apr 16 09:27:37 2023 -0400
+
+    Add files via upload
+
+[33mcommit 4e625db685113eefcee4b24146d7e284033f99a5[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sat Apr 15 21:29:10 2023 -0400
+
+    Add files via upload
+
+[33mcommit 8478f606ca237d0795c5cb5379cd811c01616dc5[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Tue Apr 11 16:50:50 2023 -0400
+
+    Add files via upload
+
+[33mcommit 395d66f71e2fc03ec2f90bce0a8cf5cb0285bb4e[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sun Apr 9 21:47:54 2023 -0400
+
+    Delete Fake News Capstone-checkpoint.ipynb
+
+[33mcommit e81013c23768c86a0f2b3ba02f445a54cde66f6f[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sun Apr 9 21:47:09 2023 -0400
+
+    Delete Fake News Capstone.ipynb
+
+[33mcommit df29147ac6f4ffbcfc50c5d1d9e6d59d8ce83ddf[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sat Apr 8 21:23:05 2023 -0400
+
+    Add files via upload
+
+[33mcommit 181d6991df4902f0439cd5896f062c1251f57357[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sat Apr 1 12:57:57 2023 -0400
+
+    Add files via upload
+
+[33mcommit db3cffcb8553512db34a5d886c35e4df10f06f62[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sat Apr 1 12:57:38 2023 -0400
+
+    Delete Fake News Capstone.ipynb
+
+[33mcommit 283fae6c0e0e624dc1885f74ea8ae411eadd7292[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sat Apr 1 12:50:57 2023 -0400
+
+    Add files via upload
+
+[33mcommit 38652b4181ef1e2f1d6bde041d653c006c0dc8b3[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sat Apr 1 12:49:14 2023 -0400
+
+    Add files via upload
+
+[33mcommit 004190c21e834a2496efe474b29990500772566c[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sat Apr 1 12:48:40 2023 -0400
+
+    Delete Fake News Capstone-checkpoint.ipynb
+
+[33mcommit 9cc0f97ce8a256f07033dd5b9e1227f80e444f86[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sat Apr 1 11:38:21 2023 -0400
+
+    Add files via upload
+
+[33mcommit 6f640cd392a7f48aea7de5418bb9344eaf11a94f[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sat Mar 25 10:11:56 2023 -0400
+
+    Add files via upload
+
+[33mcommit 1a4cdca6a09110c5a2b991cbf1ff16f176c7940d[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Mon Mar 13 17:05:55 2023 -0400
+
+    Add files via upload
+
+[33mcommit 640c1b840b1f66c8d3c0f57655c10b755269db19[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sun Feb 26 18:28:34 2023 -0500
+
+    Add files via upload
+
+[33mcommit 3b29f72ab6355e5ffc0dbf182d065d65490c0973[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Thu Feb 23 18:17:53 2023 -0500
+
+    Add files via upload
+
+[33mcommit 779449cbc9bc229cb36199b7b19a8e809eba7ac5[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Thu Feb 23 18:09:42 2023 -0500
+
+    Add files via upload
+
+[33mcommit fd7c1283bf614add3c96b3289608d673f38c46ae[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Tue Feb 21 21:02:22 2023 -0500
+
+    Add files via upload
+
+[33mcommit 45326461caa14374bfc5eba2c61bcc0316f7a2c7[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Mon Feb 20 16:17:30 2023 -0500
+
+    Add files via upload
+
+[33mcommit cbf61977bbb34ae17bde69006d31a121e59c09a4[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Mon Feb 20 16:17:05 2023 -0500
+
+    Delete 03_exploratory_data_analysis.ipynb
+
+[33mcommit 8801b594c2972e33625d9bb07a1313bd3b7324e9[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Sun Feb 19 20:53:14 2023 -0500
+
+    Add files via upload
+
+[33mcommit ea83b5486102e42d5cb3492c88dfc892bff8a3da[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Fri Feb 17 16:05:58 2023 -0500
+
+    Add files via upload
+
+[33mcommit bac08f11cd5dc025ebf3aa55278659d9695fe8d7[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Wed Feb 15 18:23:03 2023 -0500
+
+    Add files via upload
+
+[33mcommit 702d8b13e00adca9507171e28e8761d51f752ab7[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Wed Feb 15 18:22:32 2023 -0500
+
+    Delete 02_data_wrangling.ipynb
+
+[33mcommit 44d9de99917e7815f392d407bec2ee69fd9bbd73[m
+Author: Noob1701 <daniel.ansted@gmail.com>
+Date:   Tue Feb 14 21:50:40 2023 -0500
+
+    Add files via upload
